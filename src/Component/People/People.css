@@ -1,0 +1,10 @@
+.people{
+    display: flex;
+    border-bottom: 1px solid lightblue;
+    margin:0 5px 5px 100px;
+    padding-bottom: 5px;
+}
+img{
+    height: 100px;
+    margin-right: 50px;
+}

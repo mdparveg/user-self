@@ -1,0 +1,13 @@
+.user-container{
+    display: flex;
+}
+.details h1{
+    background-color: black;
+    color: white;
+}
+.details{
+    width: 70%;
+    border-right: 1px solid blue;
+    margin-left: 20px;
+    margin-right: 5px;
+}
